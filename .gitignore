@@ -1,0 +1,24 @@
+# Project exclude paths
+/.gradle/
+/app/build/generated/not_namespaced_r_class_sources/
+/app/build/intermediates/annotation_processor_list/
+/app/build/intermediates/apk_list/
+/app/build/intermediates/blame/
+/app/build/intermediates/bundle_manifest/
+/app/build/intermediates/compatible_screen_manifest/
+/app/build/intermediates/dex/
+/app/build/intermediates/external_libs_dex/
+/app/build/intermediates/incremental/
+/app/build/intermediates/instant_app_manifest/
+/app/build/intermediates/instant_run_merged_manifests/
+/app/build/intermediates/javac/
+/app/build/intermediates/legacy_multidex_aapt_derived_proguard_rules/
+/app/build/intermediates/legacy_multidex_main_dex_list/
+/app/build/intermediates/merged_manifests/
+/app/build/intermediates/metadata_feature_manifest/
+/app/build/intermediates/processed_res/
+/app/build/intermediates/res/
+/app/build/intermediates/signing_config/
+/app/build/intermediates/symbols/
+/app/build/intermediates/transforms/
+/app/build/outputs/
