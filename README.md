@@ -1,7 +1,8 @@
 
 # Ambulance_Tracker is the app name but packages and extensions are named as medRescue
 A real time ambulance booking android based application.
-
+The project video is also available in Youtube:
+https://youtu.be/IPlWdVD8ClI
 # Technologies Used:
 
 - Android based Application 
