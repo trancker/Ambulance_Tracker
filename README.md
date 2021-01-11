@@ -28,8 +28,5 @@ https://youtu.be/IPlWdVD8ClI
 
 
 # This project is made by Mohammad Tanzil Idrisi
-
-
-
-
+for further queries and any doubt contact me through linkedin
 
